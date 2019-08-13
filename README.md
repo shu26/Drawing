@@ -7,7 +7,9 @@ This converts the original code of Swift2.2 into the code of Swift5 and Xcode10.
 You can draw pictures, change colors and pens, redo and undo, and save the picture.  
 You can zoom in and zoom out the canvas, as well.  
   
-
+  
+<img src="https://github.com/shu26/Drawing/blob/master/resultImage.png" width="320px">  
+  
   
 However, I had a mistake about the connection of the UI parts, so it does not work well about the change of pens.  
 If you set any buttions on the view (not on the scrollView), everything will be ok.  
