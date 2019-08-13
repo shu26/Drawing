@@ -4,10 +4,13 @@ The original code is [here](https://github.com/anthrgrnwrld/drawWithExpand/tree/
 This converts the original code of Swift2.2 into the code of Swift5 and Xcode10.3.  
   
 ## Description  
-  
 You can draw pictures, change colors and pens, redo and undo, and save the picture.  
+You can zoom in and zoom out the canvas, as well.  
+  
+
+  
 However, I had a mistake about the connection of the UI parts, so it does not work well about the change of pens.  
-If you set any buttions on the view (not on the scrollView), everything may be ok.  
+If you set any buttions on the view (not on the scrollView), everything will be ok.  
   
 ## Usage  
 Clone this repo, using `git clone`, then you can use the main function of the Drawing App.  
